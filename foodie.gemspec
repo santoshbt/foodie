@@ -4,7 +4,7 @@ $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 require "foodie/version"
 
 Gem::Specification.new do |spec|
-  spec.name          = "foodie"
+  spec.name          = "foodie_me"
   spec.version       = Foodie::VERSION
   spec.authors       = ["santoshbt"]
   spec.email         = ["bt.santosh01@gmail.com"]
